@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { CustomMultipleSelect } from "./CustomMultipleSelect";
+import CustomMultipleSelect from "./CustomMultipleSelect";
 import "./styles.css";
 
 const dropDownNutrientFourRsData = [
